@@ -6,7 +6,7 @@ Intro to Data Journalism Markdown practice resume
 ![3/31/2023 vs BYU Rugby](/NickRugbyBYU.JPG)
 
 
-##Skills
+## Skills
 * Event Management
 * Communications
 * Photoshop
