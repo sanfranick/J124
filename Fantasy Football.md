@@ -22,7 +22,7 @@ Stathead Football is the main databased for sports statistics used by many sport
      
 ## Data Visualizations
 Screenshot 2023-08-09 at 2.02.57 PM.png
-![Top 20 Standard-format NFL players](/Screenshot2023-08-09at2.02.57PM.png)
+![Top 20 Standard-format NFL players](/Top20Standard.png)
 
 
 
