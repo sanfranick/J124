@@ -43,9 +43,12 @@ To answer this question, I had to create a pivot table to look at each player's 
 To answer this question, I created a pivot table to look at each player's scoring in PPR-formats. I also removed any player who scored less than 200 points to remove anyone who maybe just had one good game. These steps were identical to the last problem so far.
 
 * From here, I removed anyone whose previous standard-format rank was between 1-10 as these players are already ranked high. I then made a new pivot table with the remaining data.
-
-![Biggest Movers when format changed to PPR](/BiggestMovers.png) 
 ![New pivot table](/Question2.png)
+
+#### [The NFL players who had their ranking dramatically improved when scoring format was moved to PPR](https://datawrapper.dwcdn.net/0aJiY/1/)
+![Biggest Movers when format changed to PPR](/BiggestMovers.png) 
+
+##Question 3
 ### Below are the top PPR-format scoring fantasy football NFL players from the previous season
 ![Top 20 PPR-format NFL players](/Top20PPRGraph.png)
 
