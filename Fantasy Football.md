@@ -25,11 +25,17 @@ Stathead Football is the main databased for sports statistics used by many sport
 ![Top 20 Standard-format NFL players](/Top20StandardGraph.png)
 
 ## Question 1
-#### Who are the 5 most underrated players in PPR format fantasy football heading into 2023?
+#### Who are the 5 most players in PPR format fantasy football heading into 2023?
 To answer this question, I had to create a pivot table to look at each player's scoring in PPR-formats rather than standard-format. Then, I took into account players who maybe didn't play every game by filtering by PPG (points per game).
 ![Top 20 players in PPR-format by PPG](/Top20PPRPPG.png)
 
-*I then identified which of these players 
+*I then removed those players that scored <200 points since anything less than 200 would imply they only played a handful of games. I did this to remove any "one hit wonders" that might've occured.
+
+![Top 20 players in PPR-format >200](/Top20PPGFiltered.png)
+
+*I was then able to identify the top 2022 PPR NFL players as the 5 at the top of the list
+
+
 ### Below are the top PPR-format scoring fantasy football NFL players from the previous season
 ![Top 20 PPR-format NFL players](/Top20PPRGraph.png)
 
