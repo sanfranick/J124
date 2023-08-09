@@ -20,11 +20,16 @@ Stathead Football is the main databased for sports statistics used by many sport
    * lannim1@unlv.nevada.edu
    * Mike is an oustanding fantasy football league commissioner who comes up with his own player rankings going into every season. He's also a goof friend of mine who appreciates data analysis of sports statistics. I would like to learn how he comes up with his own rankings, as well as ask him if he also finds players whose fantasy performance is dramatically impacted by the type of league scoring format.
      
-## Data Visualizations
+### As you continue, keep in mind that the top standard-format scoring NFL players are usually the only data Fantasy Footballers get their hands on regardless of which format they play.
+ Here is a list of those top standard-format scoring fantasy football NFL players from the previous season that most fantasy footballers see
 ![Top 20 Standard-format NFL players](/Top20StandardGraph.png)
-Here are the top scoring fantasy football NFL players from the previous season, which Patrick Mahomes leading the way. No surprise here as many of the top players are quarterbacks.
 
+## Question 1
+#### Who are the 5 most underrated players in PPR format fantasy football heading into 2023?
+To answer this question, I had to create a pivot table to look at each player's scoring in PPR-formats rather than standard-format. Then, I took into account players who maybe didn't play every game by filtering by PPG (points per game).
 
+### Below are the top PPR-format scoring fantasy football NFL players from the previous season
+![Top 20 PPR-format NFL players](/Top20PPRGraph.png)
 
 
 
