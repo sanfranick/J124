@@ -29,13 +29,19 @@ Stathead Football is the main databased for sports statistics used by many sport
 To answer this question, I had to create a pivot table to look at each player's scoring in PPR-formats rather than standard-format. Then, I took into account players who maybe didn't play every game by filtering by PPG (points per game).
 ![Top 20 players in PPR-format by PPG](/Top20PPRPPG.png)
 
-*I then removed those players that scored <200 points since anything less than 200 would imply they only played a handful of games. I did this to remove any "one hit wonders" that might've occured.
+*  then removed those players that scored <200 points since anything less than 200 would imply they only played a handful of games. I did this to remove any "one hit wonders" that might've occured.
 
 ![Top 20 players in PPR-format >200](/Top20PPGFiltered.png)
 
-*I was then able to identify the top 2022 PPR NFL players as the 5 at the top of the list
+* I was then able to identify the top 2022 PPR NFL players as the 5 at the top of the list
+![Top 5 heading into 2022](/Top5.nice.png)
 
+## Question 2
 
+#### Which NFL players had their ranking dramatically improved when scoring format was moved to PPR?
+To answer this question, I created a pivot table to look at each player's scoring in PPR-formats. I also removed any player who scored less than 200 points to remove anyone who maybe just had one good game. These steps were identical to the last problem so far.
+
+From here, I removed anyone whose previous standard-format rank was between 1-10 as these players are already ranked high. I then made a new pivot table with the remaining data. 
 ### Below are the top PPR-format scoring fantasy football NFL players from the previous season
 ![Top 20 PPR-format NFL players](/Top20PPRGraph.png)
 
