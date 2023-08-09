@@ -21,10 +21,17 @@ Stathead Football is the main databased for sports statistics used by many sport
    * Mike is an oustanding fantasy football league commissioner who comes up with his own player rankings going into every season. He's also a goof friend of mine who appreciates data analysis of sports statistics. I would like to learn how he comes up with his own rankings, as well as ask him if he also finds players whose fantasy performance is dramatically impacted by the type of league scoring format.
      
 ## Data Visualizations
+Screenshot 2023-08-09 at 2.02.57 PM.png
+![Top 20 Standard-format NFL players](/Screenshot2023-08-09at2.02.57PM.png)
 
-![Top 20 Standard-format NFL players](/
 
-![3/31/2023 vs BYU Rugby](/NickRugbyBYU.JPG)
+
+
+
+
+
+
+
 
 
 ## Skills
