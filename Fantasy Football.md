@@ -44,7 +44,7 @@ To answer this question, I created a pivot table to look at each player's scorin
 
 * From here, I removed anyone whose previous standard-format rank was between 1-10 as these players are already ranked high. I then made a new pivot table with the remaining data.
 
-![Biggest Movers when format changed to PPR](/ 
+![Biggest Movers when format changed to PPR](/BiggestMovers.png) 
 ![New pivot table](/Question2.png)
 ### Below are the top PPR-format scoring fantasy football NFL players from the previous season
 ![Top 20 PPR-format NFL players](/Top20PPRGraph.png)
