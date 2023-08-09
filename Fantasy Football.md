@@ -22,7 +22,7 @@ Stathead Football is the main databased for sports statistics used by many sport
      
 ## Data Visualizations
 
-
+![Top 20 Standard-format NFL players](/
 
 ![3/31/2023 vs BYU Rugby](/NickRugbyBYU.JPG)
 
