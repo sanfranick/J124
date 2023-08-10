@@ -19,7 +19,7 @@ Stathead Football is the main databased for sports statistics used by many sport
 2. Michael Lanning -
    * 925-786-7819
    * lannim1@unlv.nevada.edu
-   * Mike is an oustanding fantasy football league commissioner who comes up with his own player rankings going into every season. He's also a goof friend of mine who appreciates data analysis of sports statistics. I would like to learn how he comes up with his own rankings, as well as ask him if he also finds players whose fantasy performance is dramatically impacted by the type of league scoring format.
+   * Mike is an oustanding fantasy football league commissioner who comes up with his own player rankings going into every season. He's also a good friend of mine who appreciates data analysis of sports statistics. I would like to learn how he comes up with his own rankings, as well as ask him if he also finds players whose fantasy performance is dramatically impacted by the type of league scoring format.
 
 ## Additional sources
 [CBS Fantasy Football Advanced Stats Guide](/CBS_Fantasy1)
