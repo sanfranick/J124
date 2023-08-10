@@ -77,10 +77,10 @@ Stathead Football is the main databased for sports statistics used by many sport
 #### What position has has more value in PPR-format fantasy leagues? (i.e. what position benefits the most from PPR)
 * We've already identified individual studs who's fantasy performance improves when scoring format is changed from standard to PPR, but which overall position group benefits the most? It's important to know what kind players to target in fantasy drafts.
 * First, I made a pivot table of NFL positions and their season point totals for both standard and PPR formats.
-i[a pivot table of NFL positions and their season point totals for both standard and PPR formats](/Question5.1.png)
+i[a pivot table of NFL positions and their season point totals for both standard and PPR formats](/Question51.png)
 
 * Then I added a formula that I applied to all the rows. This formula caluclated the difference between the two point totals for every player in the database.
-![Pivot table with added formula](/Question5.2.png)
+![Pivot table with added formula](/Question52.png)
 
 [The Position with the most value when in PPR-format leagues is WR (Wide Reciever)]()
 ![The Position with the most value when in PPR-format leagues is WR (Wide Reciever](/Question53.png)
