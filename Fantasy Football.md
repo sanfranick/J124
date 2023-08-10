@@ -55,6 +55,10 @@ Stathead Football is the main databased for sports statistics used by many sport
 * I made a pivot table with the NFL players in the rows and their PPR-format-PPG in the values. 
 ![A pivot table of NFL Players / PPR-PPG (Points per reception format, points per game)](/Question3.png)
 
+#### [The NFL Players that were held back by injury last year](https://datawrapper.dwcdn.net/0BZdu/1/)
+*I then added a filter to remove anyone who scored over 200 points and looked at the remaining players who led in PPG.
+
+![NFL Players wit the highest PPG while scorin under 200 total PPR-format points](/InjuryNFL.png)
 ### Below are the top PPR-format scoring fantasy football NFL players from the previous season
 ![Top 20 PPR-format NFL players](/Top20PPRGraph.png)
 
