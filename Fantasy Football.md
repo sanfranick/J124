@@ -24,7 +24,7 @@ Stathead Football is the main databased for sports statistics used by many sport
  Here is a list of those top standard-format scoring fantasy football NFL players from the previous season that most fantasy footballers see
 ![Top 20 Standard-format NFL players](/Top20StandardGraph.png)
 
-## Question 1
+# Question 1
 #### Who are the 5 most players in PPR format fantasy football heading into 2023?
 * To answer this question, I had to create a pivot table to look at each player's scoring in PPR-formats rather than standard-format. Then, I took into account players who maybe didn't play every game by filtering by PPG (points per game).
 ![Top 20 players in PPR-format by PPG](/Top20PPRPPG.png)
@@ -37,7 +37,7 @@ Stathead Football is the main databased for sports statistics used by many sport
 * I was then able to identify the top 2022 PPR NFL players as the 5 at the top of the list
 ![Top 5 heading into 2022](/Top5.nice.png)
 
-## Question 2
+# Question 2
 
 #### Which NFL players had their ranking dramatically improved when scoring format was moved to PPR?
 * To answer this question, I created a pivot table to look at each player's scoring in PPR-formats. I also removed any player who scored less than 200 points to remove anyone who maybe just had one good game. These steps were identical to the last problem so far.
@@ -48,7 +48,7 @@ Stathead Football is the main databased for sports statistics used by many sport
 #### [The NFL players who had their ranking dramatically improved when scoring format was moved to PPR](https://datawrapper.dwcdn.net/0aJiY/1/)
 ![Biggest Movers when format changed to PPR](/BiggestMovers.png) 
 
-##Question 3
+# Question 3
 #### Which Players were held back by injury last year in PPR-format?
 * It's never a bad idea to identify who was on a roll last year despite suffering injuries. Players who miss games end up scoring less points than they should've, and they got lost in the data when season totals are being discussed. Keeping an eye on pleyrs like that can be pivotal.
 
@@ -56,11 +56,13 @@ Stathead Football is the main databased for sports statistics used by many sport
 ![A pivot table of NFL Players / PPR-PPG (Points per reception format, points per game)](/Question3.png)
 
 #### [The NFL Players that were held back by injury last year](https://datawrapper.dwcdn.net/0BZdu/1/)
-*I then added a filter to remove anyone who scored over 200 points and looked at the remaining players who led in PPG.
+* I then added a filter to remove anyone who scored over 200 points and looked at the remaining players who led in PPG.
 
 ![NFL Players wit the highest PPG while scorin under 200 total PPR-format points](/InjuryNFL.png)
-### Below are the top PPR-format scoring fantasy football NFL players from the previous season
-![Top 20 PPR-format NFL players](/Top20PPRGraph.png)
+
+# Question 4:
+#### Which players have a high increase in their scoring average when scoring format is moved from standard to PPR?
+
 
 
 
