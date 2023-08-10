@@ -34,7 +34,7 @@ Stathead Football is the main databased for sports statistics used by many sport
 ![Top 20 Standard-format NFL players](/Top20StandardGraph.png)
 
 ## Question 1
-#### Who are the 5 most players in PPR format fantasy football heading into 2023?
+#### Who are the 5 best players in PPR format fantasy football heading into 2023?
 * To answer this question, I had to create a pivot table to look at each player's scoring in PPR-formats rather than standard-format. Then, I took into account players who maybe didn't play every game by filtering by PPG (points per game).
 ![Top 20 players in PPR-format by PPG](/Top20PPRPPG.png)
 
