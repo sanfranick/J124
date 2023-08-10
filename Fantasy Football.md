@@ -19,9 +19,17 @@ Stathead Football is the main databased for sports statistics used by many sport
    * 925-786-7819
    * lannim1@unlv.nevada.edu
    * Mike is an oustanding fantasy football league commissioner who comes up with his own player rankings going into every season. He's also a goof friend of mine who appreciates data analysis of sports statistics. I would like to learn how he comes up with his own rankings, as well as ask him if he also finds players whose fantasy performance is dramatically impacted by the type of league scoring format.
-     
 
- Here is a list of those top standard-format scoring fantasy football NFL players from the previous season that most fantasy footballers see
+## Additional sources
+[CBS Fantasy Football Advanced Stats Guide](/CBS_Fantasy.1)
+* Sifting through professional guides are a great way to get a better understanding of fantasy football statistics. After reading through this report, I was ale to draw inspiration for the questions I pose in this analysis.
+  
+[Fantasy Pros Perfect 2023 Fantasy Football Draft Strategy, Advice & Targets](/Fantasy_Pros.1)
+* I read this report from Fantasy Pros, which I've been following for nearly a decade. This report was released recently and helped me understand what to look for in the data I downloaded.
+
+# Data Visualization and Analysis
+
+* Just to set the scene, here is a list of those top standard-format scoring fantasy football NFL players from the previous season that most fantasy footballers see. But there are many more names worth noting.
 ![Top 20 Standard-format NFL players](/Top20StandardGraph.png)
 
 # Question 1
