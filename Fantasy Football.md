@@ -20,7 +20,7 @@ Stathead Football is the main databased for sports statistics used by many sport
    * lannim1@unlv.nevada.edu
    * Mike is an oustanding fantasy football league commissioner who comes up with his own player rankings going into every season. He's also a goof friend of mine who appreciates data analysis of sports statistics. I would like to learn how he comes up with his own rankings, as well as ask him if he also finds players whose fantasy performance is dramatically impacted by the type of league scoring format.
      
-### As you continue, keep in mind that the top standard-format scoring NFL players are usually the only data Fantasy Footballers get their hands on regardless of which format they play.
+
  Here is a list of those top standard-format scoring fantasy football NFL players from the previous season that most fantasy footballers see
 ![Top 20 Standard-format NFL players](/Top20StandardGraph.png)
 
@@ -62,7 +62,16 @@ Stathead Football is the main databased for sports statistics used by many sport
 
 # Question 4:
 #### Which players have a high increase in their scoring average when scoring format is moved from standard to PPR?
+* Depending on your position, the difference between standard and PPR formats can lead to dramatic changes in total points. I wanted to find out which players rely heavily on PPR-format, as PPR leads to higher scoring totals for most positions.
+* First, I created a pivot table of NFL players and their respective points per game for both standard and PPR formats.
+![A pivot table of NFL players and their respective points per game for both standard and PPR formats](/Question###2.png)
 
+* Then, I created a formula to determine the difference between the two columns of 'points per game'. This would tell me which players have increases in their points per game when they are scored in PPR-format.
+![A pivot table detailing the difference between PPGs](/Question***.png)
+
+#### [5 player's who's totals increase the most when scoring format is changed from standard to PPR](https://datawrapper.dwcdn.net/Qaz56/1/)
+* After putting the list in order from the biggest difference to the smallest, I was able to detirmine which players score more points when the scoring format is PPR.
+![5 player's who's totals increase the most when scoring format is changed from standard to PPR](Question###.png)
 
 
 
