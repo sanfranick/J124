@@ -64,15 +64,25 @@ Stathead Football is the main databased for sports statistics used by many sport
 #### Which players have a high increase in their scoring average when scoring format is moved from standard to PPR?
 * Depending on your position, the difference between standard and PPR formats can lead to dramatic changes in total points. I wanted to find out which players rely heavily on PPR-format, as PPR leads to higher scoring totals for most positions.
 * First, I created a pivot table of NFL players and their respective points per game for both standard and PPR formats.
-![A pivot table of NFL players and their respective points per game for both standard and PPR formats](/Question###2.png)
+![A pivot table of NFL players and their respective points per game for both standard and PPR formats](/Question***2.png)
 
 * Then, I created a formula to determine the difference between the two columns of 'points per game'. This would tell me which players have increases in their points per game when they are scored in PPR-format.
 ![A pivot table detailing the difference between PPGs](/Question***.png)
 
 #### [5 player's who's totals increase the most when scoring format is changed from standard to PPR](https://datawrapper.dwcdn.net/Qaz56/1/)
 * After putting the list in order from the biggest difference to the smallest, I was able to detirmine which players score more points when the scoring format is PPR.
-![5 player's who's totals increase the most when scoring format is changed from standard to PPR](Question###.png)
+![5 player's who's totals increase the most when scoring format is changed from standard to PPR](Question***3.png)
 
+# Question 5
+#### What position has has more value in PPR-format fantasy leagues? (i.e. what position benefits the most from PPR)
+* We've already identified individual studs who's fantasy performance improves when scoring format is changed from standard to PPR, but which overall position group benefits the most? It's important to know what kind players to target in fantasy drafts.
+* First, I made a pivot table of NFL positions and their season point totals for both standard and PPR formats.
+i[a pivot table of NFL positions and their season point totals for both standard and PPR formats](/Question5.1.png)
 
+* Then I added a formula that I applied to all the rows. This formula caluclated the difference between the two point totals for every player in the database.
+![Pivot table with added formula](/Question5.2.png)
+
+[The Position with the most value when in PPR-format leagues is WR (Wide Reciever)]()
+![The Position with the most value when in PPR-format leagues is WR (Wide Reciever](/Question53.png)
 
 
