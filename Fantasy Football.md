@@ -94,4 +94,6 @@ Stathead Football is the main databased for sports statistics used by many sport
 [The Position with the most value when in PPR-format leagues is WR (Wide Reciever)]()
 ![The Position with the most value when in PPR-format leagues is WR (Wide Reciever](/Question53.png)
 
+## Findings
+* Based on my research above, there's one player in particular you definitely need to keep an eye on: Cooper Kupp. Kupp has been a dominant force in recent years, and despite having an injury take him out for several games in 2022, he still exploded in the games he did play. As long as the injury bug doesn't slow him down thus year, you can expect another big year from Kupp. He also plays wide receiever, so you should definitely target him in PPR drafts as he will likely be undervalued due to his ranking in standard-format lists from last year.
 
