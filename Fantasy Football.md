@@ -4,7 +4,7 @@
 2022 was an alectric year for fantasy football- if you were a winner. Regardless of whether you won or lost, it's time to get ready for another competitive season. Analyzing data from Stathead Football (Pro Football Reference's main database), I identified several players who could make an impact in on the field, while simeultaneously making an impact on your fantasy team. Most people who play fantasy football know the difference between standard and PPR format (points per reception) leagues, but the media tends to only write articles ranking the best NFL players based on standard-format scoring. Due to this, people aren't aware of those NFL players who have a big change in their value depending on which scoring format is being used.
 
 ## Sourcing
-https://stathead.com/tiny/RwGZZ
+[Stathead Football](/sportsref_dowload.xls)
 
 Stathead Football is the main databased for sports statistics used by many sports agencies, so I got my data from here. I filtered my search to only have stats from 2022, and to show the main fantasy football positions, QB (quarterback), RB (running back), WR (wide receiver), and TE (tight end). The dataset I downloaded from Stathead Football looked at stats from the top 100 fantasy scoring NFL players during the 2022 season. This dataset had all 100 players ranked 1-100 based on how many fantasy points they had total the prior season. It's important to note that this ranking was based on a standard-format league, rather than a PPR (points per reception) format league. 
 
@@ -21,7 +21,7 @@ Stathead Football is the main databased for sports statistics used by many sport
    * Mike is an oustanding fantasy football league commissioner who comes up with his own player rankings going into every season. He's also a goof friend of mine who appreciates data analysis of sports statistics. I would like to learn how he comes up with his own rankings, as well as ask him if he also finds players whose fantasy performance is dramatically impacted by the type of league scoring format.
 
 ## Additional sources
-[CBS Fantasy Football Advanced Stats Guide](/CBS_Fantasy.1)
+[CBS Fantasy Football Advanced Stats Guide](/CBS_Fantasy1)
 * Sifting through professional guides are a great way to get a better understanding of fantasy football statistics. After reading through this report, I was ale to draw inspiration for the questions I pose in this analysis.
   
 [Fantasy Pros Perfect 2023 Fantasy Football Draft Strategy, Advice & Targets](/Fantasy_Pros.1)
