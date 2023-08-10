@@ -26,7 +26,7 @@ Stathead Football is the main databased for sports statistics used by many sport
 
 ## Question 1
 #### Who are the 5 most players in PPR format fantasy football heading into 2023?
-To answer this question, I had to create a pivot table to look at each player's scoring in PPR-formats rather than standard-format. Then, I took into account players who maybe didn't play every game by filtering by PPG (points per game).
+* To answer this question, I had to create a pivot table to look at each player's scoring in PPR-formats rather than standard-format. Then, I took into account players who maybe didn't play every game by filtering by PPG (points per game).
 ![Top 20 players in PPR-format by PPG](/Top20PPRPPG.png)
 
 *  then removed those players that scored <200 points since anything less than 200 would imply they only played a handful of games. I did this to remove any "one hit wonders" that might've occured.
@@ -40,7 +40,7 @@ To answer this question, I had to create a pivot table to look at each player's 
 ## Question 2
 
 #### Which NFL players had their ranking dramatically improved when scoring format was moved to PPR?
-To answer this question, I created a pivot table to look at each player's scoring in PPR-formats. I also removed any player who scored less than 200 points to remove anyone who maybe just had one good game. These steps were identical to the last problem so far.
+* To answer this question, I created a pivot table to look at each player's scoring in PPR-formats. I also removed any player who scored less than 200 points to remove anyone who maybe just had one good game. These steps were identical to the last problem so far.
 
 * From here, I removed anyone whose previous standard-format rank was between 1-10 as these players are already ranked high. I then made a new pivot table with the remaining data.
 ![New pivot table](/Question2.png)
@@ -49,24 +49,15 @@ To answer this question, I created a pivot table to look at each player's scorin
 ![Biggest Movers when format changed to PPR](/BiggestMovers.png) 
 
 ##Question 3
+#### Which Players were held back by injury last year in PPR-format?
+* It's never a bad idea to identify who was on a roll last year despite suffering injuries. Players who miss games end up scoring less points than they should've, and they got lost in the data when season totals are being discussed. Keeping an eye on pleyrs like that can be pivotal.
+
+* I made a pivot table with the NFL players in the rows and their PPR-format-PPG in the values. 
+![A pivot table of NFL Players / PPR-PPG (Points per reception format, points per game)](/Question3.png)
+
 ### Below are the top PPR-format scoring fantasy football NFL players from the previous season
 ![Top 20 PPR-format NFL players](/Top20PPRGraph.png)
 
 
 
 
-
-
-
-
-
-## Skills
-* Event Management
-* Communications
-* Photoshop
-
-| **Employer**                           	| **Job Description**                                                                                                                                                                                                  	|
-|----------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| University of California, Berkeley     	| Worked for Event Management and Facilities from Jan. 2023 - present. Picked up many skills including crowd control, scoreboard operations, customer service, and assisted in set up and take down of athletic events 	|
-| University of California, Berkeley     	| Student-Athelete for the Men's Rugby Team from 2019-2023. Refined valuable skills such as leadership, time management, teamwork, fitness, all while majoring in Media Studies.                                       	|
-| Next Level Flag Football, Danville, CA 	| Worked as a coach/referee. Ensured fair play for 900 youths ranged from kindergarten to 8th grade. Communicated with coaches and other refs to provide the best possible experience for the kids.                    	|
